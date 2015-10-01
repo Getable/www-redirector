@@ -19,28 +19,12 @@ Redirect to www.getable.com
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Install
-
-```sh
-npm i -S @getable/www-redirector
-```
-
 
 ## Usage
 
 ```js
-import getable-wwwRedirector from '@getable/www-redirector'
-
-getable-wwwRedirector('Rainbow')
+npm start
 ```
-
-## Methods
-### get `(<String> string)`
-Returns the string passed to it.
-
-## Events
-### myEvent `(<String> myString)`
-Emitted when x happens. Passes `myString` which is a y.
 
 ## Tests
 Tests are in [tape](https://github.com/substack/tape).
